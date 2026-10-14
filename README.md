@@ -143,4 +143,4 @@ Este projeto encontra-se em fase de planejamento e construção do MVP.
 
 ##  Licença
 
-A licença do projeto será definida posteriormente.
+Autor: Kaylane Kimberly
