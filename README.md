@@ -141,6 +141,9 @@ Este projeto encontra-se em fase de planejamento e construção do MVP.
 
 ---
 
-##  Licença
+## Direitos Autorais e Licença
 
-Autor: Kaylane Kimberly
+> [!IMPORTANT]
+> **Direitos Autorais:**
+>
+> - **Documentação:**  **Kaylane Kimberly**.
