@@ -5,7 +5,8 @@
 
 ##  Sobre o projeto
 
-O **Política Simplificada** é uma plataforma digital desenvolvida para tornar informações políticas mais acessíveis, visuais e fáceis de compreender.
+O
+A **Política Simplificada** é uma plataforma digital desenvolvida para tornar informações políticas mais acessíveis, visuais e fáceis de compreender.
 
 A proposta é aproximar o cidadão de temas políticos por meio de conteúdos simplificados, informações públicas, explicações didáticas e recursos de interação social.
 
