@@ -146,4 +146,4 @@ Este projeto encontra-se em fase de planejamento e construção do MVP.
 > [!IMPORTANT]
 > **Direitos Autorais:**
 >
-> - **Documentação:**  **Kaylane Kimberly**.
+>  **Kaylane Kimberly**.
